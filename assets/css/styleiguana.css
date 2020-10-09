@@ -1,0 +1,116 @@
+header {
+  display: block;
+  width: 100vw;
+  background-color: #000000
+}
+
+body {
+  background-color: black;
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h1 {
+  width: 100vw;
+  font-weight: 500;
+  font-size: 50px;
+  color: #ffffff
+}
+
+.fotoiguanagrande {
+  width: 100vw;
+  display: block
+  border: -5px;
+}
+
+.des-section {
+  display: flex;
+  background-color: #000000;
+  padding: 50px;
+  width: 100vw;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 45px;
+  color: #ffffff;
+}
+
+h6 {
+  font-weight: 300;
+  font-size: 30px;
+}
+
+.caracteristicastitulo {
+  text-align: center;
+  background-color: #1e1a13;
+  padding: 50px 50px 0px 50px;
+  width: 100vw;
+}
+
+.caracteristicas {
+  display: inline-block;
+  align-items: center;
+  align-content: center;
+  width: 100vw;
+  background-color: #1e1a13;
+  padding: 50px;
+}
+
+.tamanotexto {
+  padding: 50px;
+  color: white;
+  text-align: left;
+  width: 70%;
+}
+
+.iguana1 {
+  display: inline-block;
+  width: 45%;
+  padding: 50px;
+}
+
+.iconos {
+  display: inline-block;
+  color: #ffffff;
+  padding: 2px 100px 40px 70px;
+}
+
+.iguana3 {
+  max-height: 500px;
+  width: 75%;
+  vertical-align: middle;
+}
+
+.iguana4 {
+  max-height: 500px;
+  width: 75%;
+  vertical-align: middle;
+}
+
+.iguana5 {
+  max-height: 500px;
+  width: 75%;
+  vertical-align: middle;
+}
+
+footer {
+  background: #1E1A13;
+  width: 100vw;
+}
+
+.enlace {
+  padding: 45px;
+  color: white;
+  font-size: 20px;
+}
+
+.galeria {
+  margin: 0px -40px 0px -35px;
+}
